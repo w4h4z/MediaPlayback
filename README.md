@@ -1,8 +1,8 @@
 # Media Playback
 
 <ul>
-  <li>Nama Aplikasi : Aplikasi Sistem Parkir Kendaraan</li>
-  <li>Deskripsi Singkat : Advanced Android - Classical Music Quiz</li>
+  <li>Nama Aplikasi : Classical Music Quiz</li>
+  <li>Deskripsi Singkat : Udacity - Advanced Android (Lesson 5)</li>
 </ul>
 
 # Identitas
